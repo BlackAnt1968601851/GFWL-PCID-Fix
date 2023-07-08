@@ -6,7 +6,7 @@ set "name=PCID Fix"
 goto compile
 :compile
 cls
-pyinstaller --onefile --windowed "%name%.py"
+pyinstaller --onefile --windowed --uac-admin "%name%.py"
 echo Press any key to exit
 pause>nul
 exit
