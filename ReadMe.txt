@@ -1,4 +1,4 @@
-Open the bin folder and launch the exe to run the GFWL PCID Fix.
+Open the GFWL PCID fix exe file and click generate.
 
 (For Developers)
 1. Python 3.8.0 is required. For support for windows 7 users.
